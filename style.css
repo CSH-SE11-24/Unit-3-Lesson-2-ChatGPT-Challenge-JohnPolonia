@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+
+head{
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+body{
+   overflow-clip-margin: content-box;
+   overflow: clip;
+}
+a1{
+  background-color: yellow;
+  width: 100px;
+  height: 20px;
+}
